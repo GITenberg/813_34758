@@ -1,0 +1,52 @@
+_repo: '813_34758'
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixera de
+    - De Mattos, Alexander Teixeira
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: <p><B>Framed for murder, Lupin must clear his name or face the gallows
+  </B><BR /> Millionaire diamond collector Rudolf Kesselbach is in a Paris hotel room,
+  contemplating the stroke of genius that is about to make him one of the wealthiest
+  men in Europe, when a shadow steals into the room&#8212;a shadow with fine clothes,
+  an easy smile, and a revolver pointed at Kesselbach's chest. The intruder's name,
+  he says, is Ars&egrave;ne Lupin.<BR /> <BR /> A few hours later, Kesselbach is found
+  dead on the floor, Lupin's calling card pinned to his chest. With the police hot
+  on his trail, the master jewel thief must use every ounce of his genius to escape
+  their traps and find the man responsible for the murder. But as Lupin soon discovers,
+  his freedom is not all that is at stake. The fate of Europe hangs in the balance
+  as well.<BR /> <BR /> This ebook features a new introduction by Otto Penzler and
+  has been professionally proofread to ensure accuracy and readability on all devices.<BR
+  />
+gutenberg_issued: '2010-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lupin, Arsène (Fictitious character) -- Fiction'
+- !lcsh 'Burglars -- Fiction'
+- !lcc 'PQ'
+title: '813'
+url: http://www.gutenberg.org/ebooks/34758
